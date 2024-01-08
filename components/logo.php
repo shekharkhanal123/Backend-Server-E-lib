@@ -1,0 +1,1 @@
+<link rel="icon" href="../img/lightlogo.png" type="image/x-icon">
